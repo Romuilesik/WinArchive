@@ -1,10 +1,21 @@
 1.8 (2023-12-19)
+- New features added
+    - About autor
+	- Added an option to view the program's author
+	- Added an option to support the program's author
+	    - Steam trade-link
 - Updated functions
     - About program
-	- Added an option to view the program's author
 	- Added an option to view the program's creation date
+	- Deleted an option to support the program's author
+	    - Steam trade-link
+- Interface improvements
+    - Convenient positioning of options and sentences in Ukrainian language
+    - Corrected spelling mistakes in the Russian language
 - Program optimization
     - Removed unnecessary lines of code from the program
+
+
 
 
 
