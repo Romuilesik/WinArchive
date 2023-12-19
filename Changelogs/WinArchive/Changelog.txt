@@ -1,0 +1,163 @@
+1.8 (2023-12-19)
+- Updated functions
+    - About program
+	- Added an option to view the program's author
+	- Added an option to view the program's creation date
+- Program optimization
+    - Removed unnecessary lines of code from the program
+
+
+
+
+1.7.5 (2023-12-17)
+- Bug fixes
+    - Fixed a bug where the program didn't recognize an existing function
+- Program optimization
+    - Removed unnecessary lines of code from the program
+
+
+
+
+1.7 (2023-12-16)
+- Interface improvements
+    - Now all words are capitalized
+    - Convenient positioning of options and sentences in Ukrainian language
+- Updated functions
+    - Creating a new archive
+        - Added the ability to create a text archive
+    - Opening an archive from an external path
+	- Added the ability to open a text archive
+    - Show a list of all archives in the current directory
+	- Added the ability to view all text archives in the current directory
+    - "Delete files from archive" renamed to "Delete objects for archive"
+    - Delete objects for archive
+	- Added the ability to delete text from a text archive
+    - "Show files in archive" renamed to "Show objects in archive"
+    - Show objects in archive
+	- Added the ability to view text within a text archive
+    - About program
+	- Added an option to support the program's author
+	    - Steam trade-link
+- New features added
+    - Text modification within a text archive
+
+
+
+
+1.6 (2023-12-15)
+- Bug fixes
+    - Fixed a bug where the error sound did not play in the sound settings menu
+    - Fixed a bug where errors were not displayed in some options in English and Ukrainian languages
+    - Fixed a bug where the user couldn't exit to the main menu from the sound settings
+    - Fixed a bug where the program incorrectly copied a folder to the archive
+    - Fixed a bug where the text wasn't colored properly in some functions
+- Updated sounds
+    - Default sound volume changed from 1 to 0.7
+- Updated functions
+    - Creating a new archive
+        - Added the ability to add a folder to the archive
+    - Adding files to the archive
+	- Added the ability to add a folder to the archive
+    - About program
+        - Added a technical support option
+	    - Gmail address
+
+
+
+
+1.5 (2023-12-10)
+- Bug fixes
+    - Fixed a bug where the test sound didn't stop playing after exiting to the main menu
+    - Fixed a bug where the test sound didn't restore after the user adjusted the volume
+    - Fixed a bug where the program repeatedly asked for administrator privileges
+    - Fixed a bug where different versions were displayed on various language settings within the program
+- Program optimization
+    - Removed unnecessary lines of code from the program
+- Interface improvements
+    - Enhanced usability for selections in specific areas
+    - Fixed the issue where the program displayed notifications about key configuration even when the key already existed
+- Updated sounds
+    - Error
+    - Success
+    - Goodbye
+    - Hello
+    - Test
+    - Warning
+
+
+
+
+1.4 (2023-12-7)
+- Interface improvements
+    - Added new languages
+        - English
+	- Russian
+	- Ukrainian
+- Updated functions
+    - "Sound settings" renamed to "Settings"
+    - Settings
+	- Added a new language settings feature
+	    - Language selection
+	        - English
+		- Russian
+		- Ukrainian
+	    - Exit
+
+
+
+
+1.3 (2023-12-6)
+- New features added
+    - Sound settings
+        - Turn off sound
+	- Turn on sound
+	- Adjust volume according to your preferences
+    - Show files in archive
+    - About program
+        - Program version
+    - Delete files from archive
+        - Delete all files
+	- Delete specific file
+- Updated functions
+    - Opening an archive from an external path
+        - Delete all files
+	- Delete specific file
+	- Show files in archive
+- New sound added
+    - Warning sound
+- Bug fixes
+    - Fixed a bug where the list of archives was displayed far from the commands
+    - Fixed a bug where the program wouldn't start
+- Changed file extension from .wna to .wnz.
+
+
+
+
+1.2 (2023-12-1)
+- Interface improvements
+        - Added sounds
+            - Error
+            - Success
+            - Goodbye
+            - Hello
+            - Test
+    - Added colored text
+
+
+
+1.1 (2023-11-28) New program.
+
+- New features added
+    - Creating a new archive
+    - Extracting files from the archive
+        - Extract all files
+        - Extract specific file
+    - Adding files to the archive
+    - Show a list of all archives in the current directory
+    - Opening an archive from an external path
+        - Adding files to the archive
+        - Extracting files from the archive
+            - Extract all files
+            - Extract specific file
+    - Exit
+
