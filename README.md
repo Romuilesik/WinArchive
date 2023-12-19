@@ -1,6 +1,8 @@
 # WinArchive
 English - English
 
+This program was created by the user under the nickname RoмкаР.
+
 A console application based on WinRAR.
 
 Please note: THIS IS NOT A VIRUS. For the proper functioning of the program, a PC reboot might be necessary as the code creates a key in the Windows registry. This key contains an icon for the .wna file extension, which the program uses as an archive.
@@ -11,6 +13,8 @@ The code to create this key can be found in the file Create_key.py. Additionally
 
 Russian - Русский
 
+Эта программа была создана пользователем под ником RoмкаР.
+
 Консольное приложение, основанное на WinRAR.
 
 Прошу обратить внимание: ЭТО НЕ ВИРУС. Для корректной работы программы может потребоваться перезагрузка ПК, так как код создает ключ в реестре Windows. В этом ключе содержится иконка для расширения файла .wna, которое программа использует в качестве архива.
@@ -20,6 +24,8 @@ Russian - Русский
 
 
 Ukrainian - Українська
+
+Цю програму створив користувач під псевдонімом RoмкаР.
 
 Консольний додаток на основі WinRAR.
 
