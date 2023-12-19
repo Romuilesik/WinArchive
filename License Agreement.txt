@@ -1,0 +1,33 @@
+English - английский
+
+License Agreement
+
+These icons and Python scripts are part of the [WinArchive] program and are intended for use only within the context of this program. The program owner, [RoмкаР], retains all copyrights to these icons and Python scripts.
+
+Usage of the icons and Python scripts outside the context of the program, their copying, distribution, or modification without prior permission from the program owner is prohibited.
+
+[Date: 2023-11-28]
+[RoмкаР]
+
+
+Русский - Russian
+
+Лицензионное соглашение
+
+Эти иконки и Python скрипты являются частью программы [WinArchive] и предназначены только для использования в контексте этой программы. Владелец программы, [RoмкаР], сохраняет все авторские права на эти иконки и Python скрипты.
+
+Использование иконок и Python скриптов вне контекста программы, их копирование, распространение или изменение без предварительного разрешения владельца программы запрещено.
+
+[Дата: 2023-11-28]
+[RoмкаР]
+
+Українська - Ukrainian
+
+Ліцензійна угода
+
+Ці іконки та Python-скрипти є частиною програми [WinArchive] і призначені використовуватися лише в межах цієї програми. Власник програми, [RoмкаР], зберігає всі авторські права на ці іконки та Python-скрипти.
+
+Використання іконок та Python-скриптів поза контекстом програми, їх копіювання, розповсюдження або зміна без попереднього дозволу від власника програми заборонені.
+
+[Дата: 2023-11-28]
+[RoмкаР]
