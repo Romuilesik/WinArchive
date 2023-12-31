@@ -1,6 +1,8 @@
 # WinArchive
 English - English
 
+The sounds were created using Boomy’s service and AI
+
 This program was created by the user under the nickname RoмкаР.
 
 A console application based on WinRAR.
@@ -13,6 +15,8 @@ The code to create this key can be found in the file Create_key.py. Additionally
 
 Russian - Русский
 
+Звуки были созданы с использованием сервиса и ИИ Boomy
+
 Эта программа была создана пользователем под ником RoмкаР.
 
 Консольное приложение, основанное на WinRAR.
@@ -24,6 +28,9 @@ Russian - Русский
 
 
 Ukrainian - Українська
+
+
+Звуки були створені за допомогою сервісу та ШІ Boomy
 
 Цю програму створив користувач під псевдонімом RoмкаР.
 
