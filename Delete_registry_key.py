@@ -31,6 +31,7 @@ def is_admin():
 if not is_admin():
     # Повторный запуск скрипта от имени администратора
     ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+    exit()
 
 # Получаем путь к исполняемому файлу
 executable_directory = os.path.dirname(sys.executable)
