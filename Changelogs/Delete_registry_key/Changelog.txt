@@ -1,0 +1,136 @@
+1.8.4 (2024-2-10)
+- Bug fixes
+    - Fixed a bug causing the program to crash when the internet connection was disabled
+    - Fixed a bug causing the program to crash when the update check servers were unreachable
+
+
+
+
+
+1.8.3 (2024-1-3)
+- Bug fixes
+    - Fixed a bug where the program provided incorrect instructions for updating the software
+- Updated functions
+    - Notification about the possibility of updating the program
+	- Now the program displays the current version along with the new one
+	- Now the program includes Release notes along with the new version for easier updates
+- Program optimization
+    - Removed unnecessary lines of code from the program
+
+
+
+1.8.1 (2024-1-1)
+- Bug fixes
+    - Fixed a bug where the program was opening both normally and with administrator privileges
+- Interface improvements
+    - Corrected spelling mistakes in the Russian language
+    - Corrected spelling mistakes in the Ukrainian language
+
+
+
+
+1.8 (2023-12-31)
+- Interface improvements
+    - Program notifies about available updates upon launch
+	- Installation guide for the new version of the program
+	    - Link to program's website
+	    - Link to the GitHub repository
+- Updated sounds
+    - Error
+    - Success
+    - Goodbye
+    - Hello
+    - Test
+    - Warning
+    - Default sound volume changed from 0.7 to 0.3
+- Program optimization
+    - Removed unnecessary lines of code from the program
+
+
+
+1.7.5 (2023-12-19)
+- Interface improvements
+    - Added a warning indicating the program's creator
+- Program optimization
+    - Removed unnecessary lines of code from the program
+
+
+
+1.7 (2023-12-16)
+- Interface improvements
+    - Now all words are capitalized
+- Updated functions
+    - Main menu
+	- Delete .wznt key
+
+
+
+
+1.6 (2023-12-15)
+- Updated sounds
+    - Default sound volume changed from 1 to 0.7
+
+
+
+1.5 (2023-12-10)
+- Bug fixes
+    - Fixed a bug where the program failed to request administrator privileges
+- Program optimization
+    - Removed unnecessary lines of code from the program
+- Updated sounds
+    - Error
+    - Success
+    - Goodbye
+    - Hello
+    - Test
+    - Warning
+
+
+
+1.4 (2023-12-7)
+- Interface improvements
+    - Added new languages
+        - English
+	- Russian
+	- Ukrainian
+- New features added
+    - Settings
+	- Added a new language settings feature
+	    - Language selection
+	        - English
+		- Russian
+		- Ukrainian
+	    - Exit
+
+
+
+1.3 (2023-12-6)
+- Improvement to the program
+    - Added warning before deleting registry key
+- New sound added
+    - Warning sound
+- Bug fixes
+    - Fixed a bug where the program didn't remove an existing registry key
+- Changed file extension from .wna to .wnz.
+
+
+
+
+1.2 (2023-12-1)
+- Interface improvements
+        - Added sounds
+            - Error
+            - Success
+            - Goodbye
+            - Hello
+            - Test
+    - Added colored text
+    - Instructions for removing registry key upon unsuccessful deletion
+
+
+
+
+1.1 (2023-11-28) New program.
+- New features added
+    - Delete registry key
+    - Exit
